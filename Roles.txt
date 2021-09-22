@@ -1,0 +1,9 @@
+Roles
+Cristian Urrego: Desarroladora 
+Felipe farfan: Scrum Master 
+Natalia Isaza: Analista 
+Anthony Barahona: Tester
+
+
+enlace pagina
+http://radiant-forest-88745.herokuapp.com/

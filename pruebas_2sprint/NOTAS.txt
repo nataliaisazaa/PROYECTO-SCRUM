@@ -1,0 +1,3 @@
+Todas las pruebas pertinentes estan el el "diseño_CP_Usuario.docx"
+
+desconosco la importancia del plan de pruebas de software, solo fue modificado del sprint anterior
